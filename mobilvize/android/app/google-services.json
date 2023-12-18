@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9598128146",
+    "project_id": "mobilvize-d1a10",
+    "storage_bucket": "mobilvize-d1a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9598128146:android:f8a21221aecf07d25a08cb",
+        "android_client_info": {
+          "package_name": "com.example.mobilvize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUFnCrwSJHqVH6PTW_sgao2PSHPXZl5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
